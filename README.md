@@ -12,6 +12,9 @@
 
 ### 🧠 About Me
 
+<p align="right">
+  <img src="https://github.com/HarendraSingh111/HarendraSingh111/blob/main/face.png" />
+</p>
 Senior Software Engineer with **13+ years of experience** delivering enterprise solutions in **Poland & India**. Skilled in **Java, Spring Boot, Kafka, GraphQL, Cloud Platforms, and Machine Learning**. Passionate about building **scalable, reliable, and high-performance software systems**.  
 
 - 🔹 Experience across **SAP, Luxoft, Applied Materials, Informatica**  
